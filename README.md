@@ -35,9 +35,3 @@ This project focuses on building a robust spam email detection system using mach
 
 ---
 
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/email-spam-detection.git
-   cd email-spam-detection
